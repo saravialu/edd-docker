@@ -4,7 +4,7 @@
 
 1. Instala Docker y docker-compose. En macOS basta con instalar [docker desktop](https://docs.docker.com/desktop/mac/install).
 2. Verifica que tienes docker instalado con `docker -v`
-3. Clona este repositorio: `git clone https://github.com/rieg-ec/valgrind-docker && cd valgrind-docker`. corre `make start` dentro del directorio clonado.
+3. Clona este repositorio: `git clone https://github.com/IIC2133-PUC/edd-docker.git && cd valgrind-docker`. corre `make start` dentro del directorio clonado.
 
 Nota, La primera vez tomara mucho tiempo ya que el container se construira, pero en posteriores ejecuciones deberia partir rapido.
 ## Cómo usar
